@@ -10,7 +10,6 @@ This project demonstrates how to capture failed login attempts in a Spring Boot 
 
 ## Setup Instructions
 
-
 1 **Clone the Repository**
 
 2 **Build the Project**
